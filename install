@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Build docker image
-docker build --no-cache -t wilfrem/mono github.com/wilfrem/dokku-mono-dockerfiles
+docker build -t wilfrem/mono github.com/wilfrem/dokku-mono-dockerfiles
